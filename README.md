@@ -17,7 +17,7 @@ This pipeline uses a 3-layer **Medallion Architecture**:
 * **Silver Layer**: Data cleaning and joins using Spark SQL
 * **Gold Layer**: Aggregated data ready for visualization
 
-![Architecture Diagram](snapshots/architecture_diagram.png)
+![Architecture Diagram]([snapshots/architecture_diagram.png](https://github.com/dharmik212/Data-engineering-databricks-project/blob/main/Project%20Architecture.png))
 
 ## 📁 Project Structure
 
