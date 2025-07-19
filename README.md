@@ -29,7 +29,7 @@ This pipeline uses a 3-layer **Medallion Architecture**:
 
 The processed data was visualized using Power BI, with real-time connections to Delta tables.
 
-![Power BI Dashboard](snapshots/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/dharmik212/Data-engineering-databricks-project/blob/main/snapshots/PowerBI.png)
 
 ## 🎓 Credits
 
