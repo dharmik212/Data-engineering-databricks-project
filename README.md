@@ -37,6 +37,8 @@ Based on: [LinkedIn Learning Course](https://www.linkedin.com/learning/end-to-en
 
 Instructor: [Deepak Goyal](https://www.linkedin.com/in/deepak-goyal-93805a17/)
 
+Certificate: [View Certificate](https://www.linkedin.com/learning/certificates/e1f279d4731ae5caefacfa229b6e899e39eeceba4c4a85c72329336696c73183?trk=share_certificate)
+
 ## 📌 Author
 
 Dharmik Kurlawala
